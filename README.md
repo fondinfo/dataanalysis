@@ -1,4 +1,4 @@
-# Fondinfo - Esempi su analisi dei dati (cap. 24)
+# Analisi dei dati
 
 ## Numpy
 
